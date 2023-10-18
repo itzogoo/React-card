@@ -33,7 +33,7 @@ const App = () => {
       fname: "Amanda Kate",
       position: "CTO",
       image:  "https://costar.brightspotcdn.com/dims4/default/b973f54/2147483647/strip/true/crop/985x655+0+0/resize/985x655!/quality/100/?url=http:%2F%2Fcostar-brightspot.s3.amazonaws.com%2F47%2F7f%2Fcf30db4f4116bd9835d6436df95c%2Famy-aznar.JPG",
-      phone: "08062931234",
+      phone: "08104669822",
       email: "amandakatie@yahoo.com",
     },
   ];
